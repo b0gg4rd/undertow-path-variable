@@ -1,6 +1,9 @@
 ### Git ###
 *.orig
 
+### Java ###
+*.jar
+
 ### Apache Maven ###
 target/
 

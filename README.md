@@ -10,6 +10,10 @@ An example for _path variables_ with **Undertow**.
 
 For execute use one of this:
 
-`$ ./mvnw clean package exec:exec -P one`
+```bash
+$ ./mvnw clean package exec:exec -P one
+```
 
-`$ ./mvnw clean package exec:exec -P two`
+```bash
+$ ./mvnw clean package exec:exec -P two
+```
